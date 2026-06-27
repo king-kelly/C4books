@@ -1,5 +1,5 @@
 {
-  "version": 1,
-  "apkUrl": "veronCode://yourdomain.com/app.apk",
+  "version": 1.1,
+  "apkUrl": "https://2c4books.vercel.app",
   "message": "New features and bug fixes!"
 }
